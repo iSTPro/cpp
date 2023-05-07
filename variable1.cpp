@@ -4,7 +4,7 @@
 int main(){
 
 
-    //int [ whole number]
+    //int [ whole number] -
     int x = 5;
     //double [ decimal]
     double y = 3.127;
